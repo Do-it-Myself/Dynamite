@@ -1,0 +1,17 @@
+{
+  "name": "dynamite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tournament.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.0"
+  },
+  "dependencies": {
+    "nodeplotlib": "^1.1.2"
+  }
+}
